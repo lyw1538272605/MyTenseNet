@@ -1,0 +1,6 @@
+[32m[0904 10:59:55 @logger.py:74][0m Argv: E:/pythonProject/densenet-tensorflow-master/cifar10-densenet.py
+[32m[0904 10:59:55 @fs.py:100][0m [5m[31mWRN[0m Env var $TENSORPACK_DATASET not set, using C:\Users\15382\tensorpack_data for datasets.
+[32m[0904 10:59:55 @fs.py:103][0m Created the directory C:\Users\15382\tensorpack_data.
+[32m[0904 11:00:06 @fs.py:72][0m Succesfully downloaded cifar-10-python.tar.gz. 170498071 bytes.
+[32m[0904 11:00:11 @parallel.py:175][0m [5m[31mWRN[0m MultiProcessPrefetchData does support windows. However, windows requires more strict picklability on processes, which may lead of failure on some of the code.
+[32m[0904 11:00:11 @parallel.py:185][0m [MultiProcessPrefetchData] Will fork a dataflow more than one times. This assumes the datapoints are i.i.d.
